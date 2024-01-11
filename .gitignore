@@ -1,5 +1,4 @@
 # dependencies
-/netflix-ui/node_modules/*
-/netflix-api/node_modules/*
-/.pnp
-.pnp.js
+/netflix-ui/node_modules/
+/netflix-api/node_modules/
+
